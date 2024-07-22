@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-<img src="/images/2(2).png" alt="Logo" width="370" height="200">
+<img src="/images/2(2).png" alt="Logo" width="450" height="250">
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Servicios integrales de ingeniería civil, estructural, y diseño arquitectónico.
