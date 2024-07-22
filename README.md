@@ -9,6 +9,7 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 
 ![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
 
+
 ### Theme features
 
 - Jekyll 4.2+
