@@ -11,3 +11,4 @@ show_call_box: true
 <img src="/images/2(2).png" alt="Logo" width="490" height="280">
 
 Servicios integrales de ingeniería civil, estructural, y diseño arquitectónico.
+Nos especializamos en el diseño, fabricación y montaje de estructuras de acero, empleando procesos y productos eficientes e innovadores en ambientes sostenibles.
