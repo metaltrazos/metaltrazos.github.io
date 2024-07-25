@@ -5,7 +5,11 @@ description: About
 bodyClass: page-about
 ---
 
-Nuestra empresa, ‘METAL TRAZOS, Cada línea una garantía de resiliencia y calidad’ se dedica a ofrecer servicios integrales en ingeniería civil, estructural y diseño arquitectónico. Nos especializamos en el diseño, fabricación y montaje de estructuras de acero, empleando procesos y productos eficientes e innovadores en ambientes sostenibles.
+Nuestra empresa, 
+
+> ‘METAL TRAZOS, Cada línea una garantía de resiliencia y calidad’ 
+
+se dedica a ofrecer servicios integrales en ingeniería civil, estructural y diseño arquitectónico. Nos especializamos en el diseño, fabricación y montaje de estructuras de acero, empleando procesos y productos eficientes e innovadores en ambientes sostenibles.
 
 Con más de 30 años de experiencia en la industria de la construcción, hemos participado en importantes proyectos a nivel nacional, colaborando con diversos sectores. Esto nos ha permitido consolidarnos como una compañía metalmecánica reconocida y confiable, con influencia en la región.
 
