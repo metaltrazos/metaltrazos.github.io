@@ -9,11 +9,11 @@ Nuestra empresa, ‘METAL TRAZOS, Cada línea una garantía de resiliencia y cal
 
 Con más de 30 años de experiencia en la industria de la construcción, hemos participado en importantes proyectos a nivel nacional, colaborando con diversos sectores. Esto nos ha permitido consolidarnos como una compañía metalmecánica reconocida y confiable, con influencia en la región.
 
-## Nuestra Misión
+# Nuestra Misión
 
 Proveer los servicios de diseño, fabricación y montaje de estructuras metálicas con la más alta calidad, cumplimiento y constante innovación para anticiparnos a las necesidades de nuestros clientes; generar el mayor bienestar y desarrollo personal y profesional de nuestros trabajadores, mantener relaciones armónicas y duraderas con nuestros grupos de interés y exceder los objetivos financieros y de crecimiento de nuestros accionistas.
 
-## Nuestra Visión
+# Nuestra Visión
 
 Codimec SAS será la compañía líder en el diseño, fabricación y montaje de estructuras en acero en el mercado nacional, con miras, en un mediano plazo, a expandir nuestra cobertura a nivel internacional. En Codimec queremos seguir creciendo de forma rentable y sostenible, siendo una organización innovadora, confiable y responsable tanto con el medio ambiente como con nuestros grupos de interés.
 
