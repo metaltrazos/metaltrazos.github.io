@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Contactos y Cotizaciones
 layout: contact
-description: Contact
+description: Contactos y Cotizaciones
 ---
 
-##### Contáctenos
+##### Contactos y Cotizaciones
 
 Para información general o cotizaciones, favor comunicarse a: <br> +57 321 7474823 o +57 316 2982809. Con gusto lo atenderemos!
 
