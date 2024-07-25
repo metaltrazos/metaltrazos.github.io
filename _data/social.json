@@ -14,5 +14,10 @@
       "link": "https://www.instagram.com/metaltrazos/",
       "image": "images/social/instagram.svg"
   }
+  {
+      "name": "WhatsApp",
+      "link": "https://wa.me/573217474823",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+  }
 
 ]
