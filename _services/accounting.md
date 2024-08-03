@@ -4,9 +4,9 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Ofrecemos los servicios de diseño y cálculo estructural de estructuras, desarrollado por ingenieros especializados y altamente capacitados, modelado mediante software profesional reglamentado bajo la normativa nacional.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/disen.jpg)
 
 # Objectives
 
