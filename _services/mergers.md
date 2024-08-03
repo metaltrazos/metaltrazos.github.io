@@ -1,5 +1,5 @@
 ---
-title: "Montaje de Estructuras Metálicas"
+title: "Diseño Arquitectónico"
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
