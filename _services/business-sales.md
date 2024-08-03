@@ -1,5 +1,5 @@
 ---
-title: "Fabricación de Estructuras Metálicas"
+title: "Fabricación y Montaje de Estructuras Metálicas"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
