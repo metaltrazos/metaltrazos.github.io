@@ -6,7 +6,7 @@ weight: 1
 
 Ofrecemos los servicios de diseño y cálculo estructural de estructuras, desarrollado por ingenieros especializados y altamente capacitados, modelado mediante software profesional reglamentado bajo la normativa nacional.
 
-![Accounting Services](/images/disen.jpg)
+![Accounting Services](/images/Steel.jpg)
 
 # Objectives
 
