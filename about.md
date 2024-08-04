@@ -13,7 +13,7 @@ se dedica a ofrecer servicios integrales en ingeniería civil, estructural y dis
 
 Con más de 30 años de experiencia en la industria de la construcción, hemos participado en importantes proyectos a nivel nacional, colaborando con diversos sectores. Esto nos ha permitido consolidarnos como una compañía metalmecánica reconocida y confiable, con influencia en la región.
 
-![Team](/images/team.jpg)
+<img src="/images/team.jpg" alt="Team" width="570" height="640" />
 
 # Nuestra Misión
 
