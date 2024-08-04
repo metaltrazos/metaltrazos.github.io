@@ -8,7 +8,7 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-![Accounting Services](/images/arco.jpg)
+<img src="/images/arco.jpg" alt="Accounting Services" width="550" height="500" />
 
 # Objectives
 
