@@ -1,13 +1,12 @@
 ---
-title: "Escaleras"
+title: "Interventoría y Consultoría"
 date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+A través de **Consultas personalizadas**, asesoramos sus ideas para convertirlas en proyectos de éxito. Efectuamos el análisis de la viabilidad técnica, administrativa, social y financiera de proyectos de construcción.
+
+Por medio de nuestras **Interventoría de calidad**, asesoramos y gestionamos la supervisión técnica y administrativa de proyectos de construcción, mantenimiento y renovación en las diferentes especialidades. Ponemos a disposición de nuestros clientes los recursos humanos y tecnológicos de la más alta calidad para realizar vigilancia y control de los componentes técnicos, financieros, administrativos, ambientales, contables y jurídicos involucrados en la ejecución de un contrato. Analizamos cuál es el desempeño de su proyecto en ejecución mediante la medición y evaluación de la gestión de todas las áreas y operaciones del mismo.
 
 ![Accounting Services](/images/Steel.jpg)
 
