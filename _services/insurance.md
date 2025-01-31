@@ -14,10 +14,15 @@ Cada proyecto comienza con una visión, y nuestro objetivo es hacerla realidad. 
 Interventoría de Calidad
 
 Supervisamos y gestionamos la ejecución de proyectos en diversas especialidades, asegurando el cumplimiento de normativas y estándares de calidad. Nuestro servicio abarca:
+
 ✔ Supervisión técnica y administrativa para garantizar eficiencia y cumplimiento de plazos.
+
 ✔ Control financiero y contable, asegurando transparencia y optimización de costos.
+
 ✔ Gestión ambiental, verificando el impacto y cumplimiento de regulaciones sostenibles.
+
 ✔ Evaluación jurídica, asegurando que cada contrato cumpla con las disposiciones legales vigentes.
+
 ✔ Monitoreo y control mediante herramientas tecnológicas avanzadas para medir el desempeño en tiempo real.
 
 Nuestra labor no solo garantiza el cumplimiento de los objetivos del proyecto, sino que también optimiza su desarrollo, reduciendo riesgos y maximizando la eficiencia en todas sus fases.
