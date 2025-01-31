@@ -30,4 +30,5 @@ Una correcta instalación es clave para la seguridad y eficiencia estructural. E
 ✔ Seguridad industrial y normativas vigentes: implementamos protocolos estrictos de seguridad para proteger a nuestro personal y garantizar el éxito del proyecto.
 
 Nuestra experiencia en la fabricación y montaje de estructuras metálicas nos ha permitido participar en proyectos industriales, comerciales y residenciales a nivel nacional, consolidándonos como una empresa líder en el sector metalmecánico.
-Construyamos juntos estructuras fuertes, seguras y eficientes. Contáctenos para llevar su proyecto al siguiente nivel.
+
+*Construyamos juntos estructuras fuertes, seguras y eficientes. Contáctenos para llevar su proyecto al siguiente nivel.*
